@@ -2,7 +2,7 @@ Hi, I'm Tim
 
 I am a junior full stack developer, living in London, England.
 
-- 🔭 I’m currently working on a step tracker including the ability to set daily goals
+- 🔭 I’m currently working on a Movie review platform to search and leave reviews for movies
 - 🌱 I’m currently working on improving my JavaScript and other multi use programming languages
 
 
